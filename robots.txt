@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tfgb.vercel.app/sitemap.xml
